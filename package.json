@@ -1,10 +1,10 @@
 {
-  "name": "DiscordBot",
+  "name": "S0LBot",
   "version": "0.1.1",
-  "description": "Bot for Discord app",
+  "description": "S0LBot",
   "readme": "README.md",
   "maintainers": [],
-  "author": "",
+  "author": "SprocksGAMING",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chalda/DiscordBot.git"
